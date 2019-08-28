@@ -1,0 +1,31 @@
+.page-switch-login{
+  margin-top: 10%;
+}
+
+.col-login{
+  max-width: 22rem;
+}
+
+.card-login{
+  border-radius: 0;
+
+  .card-header{
+    text-align: center;
+    // background: #03252d;
+    img{
+      margin: 0 auto;
+    }
+  }
+}
+
+.swal2-popup.swal2-login{
+  width: 40em;
+
+  .swal2-title{
+    font-size: 1.25em;
+  }
+}
+
+.logo-login{
+  max-width: 200px;
+}

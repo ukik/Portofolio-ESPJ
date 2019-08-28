@@ -1,0 +1,30 @@
+.header-nav{
+  .dropdown-menu{
+    border-top: 0;
+
+    &.dropdown-menu-right{
+      left: 1px;
+    }
+  }
+
+  /*.nav-item.show .nav-link{
+    background: none;
+    background-color: none;
+
+    border-color: #467fcf;
+    color: #467fcf;
+  }*/
+
+
+}
+
+.nav-tabs{
+  .nav-link.active,
+  .nav-item.show .nav-link{
+    background-color: transparent;
+  }
+  
+  .nav-item.show .nav-link{
+    border-color: $gray-600;
+  }
+}

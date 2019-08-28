@@ -1,0 +1,1 @@
+webpackJsonp([168],{"9UJz":function(t,e,n){var r=n("VU/8")(null,n("qffk"),!1,null,null,null);t.exports=r.exports},qffk:function(t,e){t.exports={render:function(){var t=this.$createElement;return(this._self._c||t)("div",{directives:[{name:"footer",rawName:"v-footer"}],staticClass:"container",attrs:{id:"container"}},[this._t("default")],2)},staticRenderFns:[]}}});

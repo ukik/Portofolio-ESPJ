@@ -1,0 +1,72 @@
+/- SUPPORT
+/-ssh
+/app1
+/app2
+/app3
+/app4
+/app5
+/app6
+/app7
+/config1
+/config2
+/database
+
+/resources/js.1
+/resources1
+/resources2
+/resources3
+/resources4
+/resources5
+/resources6
+/routes1
+/routes2
+/routes3
+/storage1
+/storage2
+/_e-spj-bappeda-new-dev-5.7.rar
+.e-spj-bappeda-new-dev-5.7.rar
+.catatan BlackHole.txt
+.catatan Pattern.txt
+.catatan GIT.txt
+.catatan JWT.txt
+.catatan Pattern.txt
+.catatan TIPS.txt
+.env.example
+
+spj_v1.sql
+webpack.mix.1.js
+webpack.mix.2.js
+
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+/.vscode
+/.vagrant
+/*/*/*/*.bak
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
+.DS_Store
+
+*.tmp
+
+# Word temporary
+~$*.doc*
+
+# Excel temporary
+~$*.xls*
+
+# Excel Backup File
+*.xlk
+
+# PowerPoint temporary
+~$*.ppt*
+
+# Visio autosave temporary files
+*.~vsd*
+

@@ -1,0 +1,9 @@
+.custom-checkbox-no-label{
+  min-height: initial;
+  .custom-control-label{
+    &:before, &:after{
+      top: initial;
+      left: initial;
+    }
+  }
+}
